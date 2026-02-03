@@ -7,9 +7,12 @@ Arvude sisestamisel on järjekord oluline, tuleb loendada vasakult paremale alus
 
 Lahenduskäigus kuvatakse koordinaatide liikumised koos vastava arvutusoperaatoriga, milles koordinaadid vastavad järgmisele loogikale: 
 
-(0,0) - 1. rea ja 1. veeru element
-(0,1) - 1. rea ja 2. veeru element
-(1,0) - 2. rea ja 1. veeru element
+(0,0) - 1. rea ja 1. veeru element 
+
+(0,1) - 1. rea ja 2. veeru element 
+
+(1,0) - 2. rea ja 1. veeru element 
+
 ... 
 
 Näidis: 
